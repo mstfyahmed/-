@@ -7,8 +7,8 @@ from pybit.unified_trading import HTTP
 # CONFIG (PUT VALUES)
 # =========================
 
-TELEGRAM_TOKEN = "8567073460:AAFMh1qdwDHRhmzA8P9EV8W1GJe6_FxQFPE"
-CHAT_ID = "6664917105"
+TELEGRAM_TOKEN = "8784070781:AAEwYjXS43ZG_vdm-PTnM9eUxSnJafnhkfo"
+CHAT_ID = "8338869162"
 
 API_KEY = "SaPMHtTbiMuDYeurDl"
 API_SECRET = "JLoWfLUVu2xpZpNeNf2hjok8nQyMs93IpWrx"
