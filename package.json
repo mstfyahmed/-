@@ -1,0 +1,20 @@
+{
+  "name": "tradestream-brain",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 btc_trade_bot.py",
+    "start": "python3 btc_trade_bot.py"
+  },
+  "dependencies": {
+    "rich": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.1.14",
+    "typescript": "^5.7.3",
+    "vite": "^6.2.0"
+  }
+}

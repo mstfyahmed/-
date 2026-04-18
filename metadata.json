@@ -1,0 +1,6 @@
+{
+  "name": "BTC Trade Brain",
+  "description": "Terminal-based high-frequency trading bot and strategy engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

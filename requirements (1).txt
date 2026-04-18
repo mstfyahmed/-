@@ -1,0 +1,6 @@
+requests
+pandas
+pybit
+rich
+ccxt
+numpy
